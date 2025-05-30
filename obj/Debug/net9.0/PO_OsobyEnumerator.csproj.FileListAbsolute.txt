@@ -1,0 +1,14 @@
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_OsobyEnumerator\bin\Debug\net9.0\PO_OsobyEnumerator.exe
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_OsobyEnumerator\bin\Debug\net9.0\PO_OsobyEnumerator.deps.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_OsobyEnumerator\bin\Debug\net9.0\PO_OsobyEnumerator.runtimeconfig.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_OsobyEnumerator\bin\Debug\net9.0\PO_OsobyEnumerator.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_OsobyEnumerator\bin\Debug\net9.0\PO_OsobyEnumerator.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_OsobyEnumerator\obj\Debug\net9.0\PO_OsobyEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_OsobyEnumerator\obj\Debug\net9.0\PO_OsobyEnumerator.AssemblyInfoInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_OsobyEnumerator\obj\Debug\net9.0\PO_OsobyEnumerator.AssemblyInfo.cs
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_OsobyEnumerator\obj\Debug\net9.0\PO_OsobyEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_OsobyEnumerator\obj\Debug\net9.0\PO_OsobyEnumerator.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_OsobyEnumerator\obj\Debug\net9.0\refint\PO_OsobyEnumerator.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_OsobyEnumerator\obj\Debug\net9.0\PO_OsobyEnumerator.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_OsobyEnumerator\obj\Debug\net9.0\PO_OsobyEnumerator.genruntimeconfig.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_OsobyEnumerator\obj\Debug\net9.0\ref\PO_OsobyEnumerator.dll
